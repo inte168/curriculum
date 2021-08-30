@@ -1,4 +1,4 @@
-import {fundamentalsCollection} from "./data/lectures.js";
+import {fundamentalsCollection} from "./data/lecture.js";
 import {webcomponentsCollection} from "./data/web-components.js";
 import {accessibilityCollection} from "./data/accessibility.js";
 import {pwaCollection} from "./data/pwa.js";
