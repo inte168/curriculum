@@ -115,7 +115,7 @@ export const fundamentalsCollection = {
 						{
 							name: "역사와비판적사고",
 							description: {
-								text:"역사와 비판적사고는 ~ ",
+								text:"역사 속, 사고의 발전과 변화를 이해하고 현대사회에서 일반화된 사유의 형식과 주제들을 바라봄으로써 비판적 사고를 배양하도록 한다. ",
 								links: [
 									["링크명칭","#"]
 								]
@@ -126,7 +126,7 @@ export const fundamentalsCollection = {
 								{
 									name : "응용컴퓨터프로그래밍",
 									description:{
-										text:"응용컴퓨터프로그래밍은 ~",
+										text:"C언어에 대한 고급 프로그래밍 기법을 학습하는 강좌, 학습한 기초적인 C 언어 기반 응용 프로그램 개발 예제를 통하여 개발 능력을 함양한다.",
 										links:[
 											["링크명칭","#"]
 										]
@@ -136,7 +136,7 @@ export const fundamentalsCollection = {
 										{
 											name : "공업법규와창업",
 											description:{
-												text:"공업법규와창업은 ~",
+												text:"경쟁력 있는 창업 육성과 기술경영을 위해 필요한 법규에 관한 지식을 제공한다.",
 												links:[
 													["링크 명칭","#"]
 												]
@@ -146,7 +146,7 @@ export const fundamentalsCollection = {
 												{
 													name : "확대교양영역 택1",
 													description:{
-														text:"확대교양영역 택1은 ~",
+														text:"확대교양은 융·복합 분야 등 미래 사회가 요구하는 다양한 역량을 함양하는 교과목으로 구성되어있다.",
 														links:[
 															["링크 명칭","#"]
 														]
@@ -156,7 +156,7 @@ export const fundamentalsCollection = {
 														{
 															name : "기초통계학",
 															description:{
-																text:"기초통계학은 ~",
+																text:"통계학의 기초개념을 이해하고, 통계적 사고의 기초를 확립하며, 기초개념 및 원리를 이해하고, 이로부터 통계적 사고를 배양하며, R 통계 패키지를 이용하여 자료 처리능력과 분석법에 대해 다루고 있다.",
 																links:[
 																	["링크 명칭","#"]
 																]
@@ -166,7 +166,7 @@ export const fundamentalsCollection = {
 																{
 																	name : "오픈소스SW이해및실습",
 																	description:{
-																		text:"오픈소스SW이해및실습은 ~",
+																		text:"오픈소스소프트웨어의 종류, 활용방법, 개발환경의 구성, 응용 등에 대해 학습하여 오픈소스소프트웨어에 대한 이해를 높인다.",
 																		links:[
 																			["링크 명칭","#"]
 																		]
@@ -176,7 +176,7 @@ export const fundamentalsCollection = {
 																		{
 																			name : "미래설계준비",
 																			description:{
-																				text:"미래설계준비는 ~",
+																				text:"4차 산업혁명에 관련한 기술을 소개하여 이를 통한 학생들의 리더십 함양과 창의력 및 융합 마인드 함양을 목표로 한다.",
 																				links:[
 																					["링크 명칭","#"]
 																				]
