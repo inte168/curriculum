@@ -18,7 +18,7 @@ export const fundamentalsCollection = {
 						{
 							name: "대학글쓰기",
 							description: {
-								text:"대학글쓰기는 ~ ",
+								text:"글을 읽고 내용을 이해할 수 있는 독해 능력, 논리적인 글을 쓸 수 있는 글쓰기 능력, 자신의 주장을 펼칠 수 있는 발표 능력을 기른다.",
 								links: [
 									["링크명칭","#"]
 								]
@@ -29,7 +29,7 @@ export const fundamentalsCollection = {
 								{
 									name : "Action English",
 									description:{
-										text:"Action English는 ~",
+										text:"영어의 의사소통 능력(회화)을 배양하며 또한 필수적인 발음, 억양, 제스처 등을 함양한다.",
 										links:[
 											["링크명칭","#"]
 										]
@@ -39,7 +39,7 @@ export const fundamentalsCollection = {
 										{
 											name : "기초컴퓨터프로그래밍",
 											description:{
-												text:"기초컴퓨터프로그래밍은 ~",
+												text:"프로그래밍에 대한 기초적 개념 및 C언어의 구조와 구성 요소들에 대하여 이해한다.",
 												links:[
 													["링크 명칭","#"]
 												]
@@ -49,7 +49,7 @@ export const fundamentalsCollection = {
 												{
 													name : "수학 I",
 													description:{
-														text:"수학 I은 ~",
+														text:"실함수에 관계된 기초 미적분이론에서 다변수함수 등의 고급의 미적분이론까지 학습한다.",
 														links:[
 															["링크 명칭","#"]
 														]
@@ -59,7 +59,7 @@ export const fundamentalsCollection = {
 														{
 															name : "빅데이터의이해와활용",
 															description:{
-																text:"빅데이터의 이해와 활용은 ~",
+																text:"학생들을 대상으로 빅데이터에 대한 지식과 활용 사례를 소개함으로써 다가오는 빅데이터 시대를 대비한다",
 																links:[
 																	["링크 명칭","#"]
 																]
@@ -69,7 +69,7 @@ export const fundamentalsCollection = {
 																{
 																	name : "창의공학설계",
 																	description:{
-																		text:"착의공학설계는 ~",
+																		text:"다양한 문제의 해결 과정을 통해서 창의적 능력을 키우며, 문제 해결 능력 향상과 함께 팀활동을 체험한다.",
 																		links:[
 																			["링크 명칭","#"]
 																		]
@@ -79,7 +79,7 @@ export const fundamentalsCollection = {
 																		{
 																			name : "미래설계탐색",
 																			description:{
-																				text:"미래설계탐색은 ~",
+																				text:"여러 검사와 지속적인 상담 및 지도를 통해 자기를 이해하고 가치관을 확립한다.",
 																				links:[
 																					["링크 명칭","#"]
 																				]
