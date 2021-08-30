@@ -301,7 +301,7 @@ export const fundamentalsCollection = {
 						{
 							name: "오토마타이론",
 							description: {
-								text:"오토마타이론은 ~ ",
+								text:"계산 이론의 이론적 지식인 형식언어, 형식문법, 오토마타 등에 대해 강의하고 관련된 고급 프로그래밍 기법을 습득하여 학생들의 문제 해결 능력을 강화한다. ",
 								links: [
 									["링크명칭","#"]
 								]
@@ -312,7 +312,7 @@ export const fundamentalsCollection = {
 								{
 									name : "논리회로및설계",
 									description:{
-										text:"논리회로및설계는 ~",
+										text:"디지털 하드웨어의 동작을 이해하기 위하여 다양한 디지털 회로에 대한 이해와 설계 능력을 배양한다.",
 										links:[
 											["링크명칭","#"]
 										]
@@ -322,7 +322,7 @@ export const fundamentalsCollection = {
 										{
 											name : "선형대수학",
 											description:{
-												text:"선형대수학은 ~",
+												text:"컴퓨터공학 분야에 다양하게 응용되는 행렬과 연립방정식, 행렬식, 벡터공간, 선형변화, 고유값 고유벡터 등을 학습한다.",
 												links:[
 													["링크 명칭","#"]
 												]
@@ -332,7 +332,7 @@ export const fundamentalsCollection = {
 												{
 													name : "오픈소스개발프로젝트",
 													description:{
-														text:"오픈소스개발프로젝트은 ~",
+														text:"오픈 소스 프로그래밍 언어인 자바를 이용하여 실생활에 적용 가능한 소프트웨어를 개발하고, 그 과정에서 프로그램의 역할과 프로그램 코드의 체계적 개발에 대한 중요성을 이해한다.",
 														links:[
 															["링크 명칭","#"]
 														]
@@ -342,7 +342,7 @@ export const fundamentalsCollection = {
 														{
 															name : "데이터구조",
 															description:{
-																text:"데이터구조는 ~",
+																text:"컴퓨터에서 처리하는 데이터의 개념과 이를 효율적으로 처리하기 위한 자료 구조에 대해 공부한다. 또한 트리와 그래프를 사용한 자료 정렬과 검색에 대하여 학습한다.",
 																links:[
 																	["링크 명칭","#"]
 																]
@@ -352,7 +352,7 @@ export const fundamentalsCollection = {
 																{
 																	name : "컴퓨터네트워크",
 																	description:{
-																		text:"컴퓨터네트워크는 ~",
+																		text:"통신 프로토콜의 기능 모델, OSI 참조 모델, TCP/IP 프로토콜, 소켓 인터페이스, IP 라우팅, 차세대 인터넷, 초고속 통신망 등의 개념에 대하여 학습한다.",
 																		links:[
 																			["링크 명칭","#"]
 																		]
