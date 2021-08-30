@@ -214,9 +214,9 @@ export const fundamentalsCollection = {
 					/* block */
 					skills: [
 						{
-							name: "C,C++프로그래밍",
+							name: "C&C++프로그래밍",
 							description: {
-								text:"C,C++프로그래밍은 ~ ",
+								text:"C&C++프로그래밍은 ~ ",
 								links: [
 									["링크명칭","#"]
 								]
