@@ -203,118 +203,173 @@ export const fundamentalsCollection = {
 			name: "sophormore",
 			skills: [
 				{
-					name: "Syntax",
+					/* block-left */
+					name: "1학기",
 					description: {
-						text: "Learn the basics of CSS and get comfortable with it's syntax and main concepts.",
+						text: "채워주세요",
 						links: [
-							["MDN - CSS Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics"],
-							["W3Schools - CSS Tutorial", "https://www.w3schools.com/css/default.asp"],
-							["Supercharged - CSS Selectors", "https://www.youtube.com/watch?v=IKho_xDKaLw"],
-							["MDN - CSS first steps", "https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps"],
-							["MDN - CSS building blocks", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks"],
-							["MDN - CSS values and units", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units"],
-							["MDN - CSS Syntax", "https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax"],
-						]
-					}
-				},
-				{
-					name: "Selectors",
-					description: {
-						text: "Learn about CSS selectors and how to effeciently target DOM elements.",
-						links: [
-							["MDN - CSS selectors", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors"],
-							["MDN - All selectors", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors"],
-							["CSS Tricks - Child and Sibling Selectors", "https://css-tricks.com/child-and-sibling-selectors/"],
-							["CSS Tricks - All Selectors", "https://css-tricks.com/almanac/selectors/"],
-							["W3Schools - CSS Combinators", "https://www.w3schools.com/css/css_combinators.asp"]
+							["링크명칭", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"]
 						]
 					},
+					/* block */
 					skills: [
 						{
-							name: "Specificity",
+							name: "C&C++프로그래밍",
 							description: {
-								text: "Learn what specificity means and how to use it when writing CSS.",
+								text:"C&C++프로그래밍은 ~ ",
 								links: [
-									["MDN - Specificity", "https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity"],
-									["MDN - Cascade and inheritance", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance"],
-									["dev.to - CSS Specificity", "https://dev.to/emmawedekind/css-specificity-1kca"],
-									["Specificity Calculator", "https://specificity.keegan.st/"],
-									["W3Schools - CSS Specificity", "https://www.w3schools.com/css/css_specificity.asp"]
+									["링크명칭","#"]
 								]
 							},
-						},
-						{
-							name: "Pseudo Selectors",
-							description: {
-								text: "Learn how to use pseudo selectors.",
-								links: [
-									["MDN - Pseudo-classes", "https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes"],
-									["CSS Tricks - Meet the Pseudo Class Selectors", "https://css-tricks.com/pseudo-class-selectors/"],
-									["When do the :hover, :focus, and :active pseudo-classes apply?", "https://bitsofco.de/when-do-the-hover-focus-and-active-pseudo-classes-apply/"],
-									["W3Schools - CSS Pseudo-elements", "https://www.w3schools.com/css/css_pseudo_elements.asp"],
-									["W3Schools - CSS Pseudo-classes", "https://www.w3schools.com/css/css_pseudo_classes.asp"],
-								]
-							},
-						},
-					]
-				},
-				{
-					name: "Box Model",
-					description: {
-						text: "Learn what the CSS box model means.",
-						links: [
-							["MDN - Introduction to the CSS basic box model", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model"],
-							["MDN - The box model", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model"],
-							["CSS Tricks - Inheriting box-sizing", "https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/"],
-						]
-					},
-					skills: [
-						{
-							name: "Margin Collapsing",
-							description: {
-								text: "Learn about margin collapsing.",
-								links: [
-									["MDN - Mastering margin collapsing", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing"],
-									["Margin Collapse in CSS: What, Why, and How", "https://medium.com/@joseph0crick/margin-collapse-in-css-what-why-and-how-328c10e37ca0"],
-									["CSS Tricks - What You Should Know About Collapsing Margins", "https://css-tricks.com/what-you-should-know-about-collapsing-margins/"],
-									["What's the Deal with Collapsible Margins?", "https://bitsofco.de/collapsible-margins/"],
-									["What’s the Deal with Margin Collapse?", "https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/"],
-								]
-							},
+
+							/* block */
+							skills:[
+								{
+									name : "전자회로및설계",
+									description:{
+										text:"전자회로및설계는 ~",
+										links:[
+											["링크명칭","#"]
+										]
+									},
+									/* block */
+									skills:[
+										{
+											name : "데이터통신",
+											description:{
+												text:"데이터통신은 ~",
+												links:[
+													["링크 명칭","#"]
+												]
+											},
+											/* block */
+											skills:[
+												{
+													name : "오픈소스기초프로젝트",
+													description:{
+														text:"오픈소스기초프로젝트는 ~",
+														links:[
+															["링크 명칭","#"]
+														]
+													},
+													/* block */
+													skills:[
+														{
+															name : "이산수학",
+															description:{
+																text:"이산수학은 ~",
+																links:[
+																	["링크 명칭","#"]
+																]
+															},
+															/* block */
+															skills:[
+																{
+																	name : "미래설계구현",
+																	description:{
+																		text:"미래설계구현은 ~",
+																		links:[
+																			["링크 명칭","#"]
+																		]
+																	}
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+
 						}
 					]
 				},
-				/*{
-					name: "Overflow",
-					description: {
-						text: "Learn about what happens when there is too much content to be contained comfortably inside a box and how to manage it.",
-						links: [
-							["MDN - Overflowing content", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Overflowing_content"],
-							["W3Schools - CSS Layout: Overflow", "https://www.w3schools.com/css/css_overflow.asp"],
-							["Overflow In CSS", "https://ishadeed.com/article/overflow-css/"]
-						]
-					},
-				},*/
+				/* block-right */
 				{
-					name: "Colors",
+					/* block */
+					name: "2학기",
 					description: {
-						text: "Learn the different ways you can define colors in CSS.",
+						text: "채워주세요",
 						links: [
-							["MDN - Color", "https://developer.mozilla.org/en-US/docs/Web/CSS/color"],
-							["MDN - <color>", "https://developer.mozilla.org/en-US/docs/Web/CSS/color_value"],
-							["W3Schools - CSS Colors", "https://www.w3schools.com/css/css_colors.asp"],
+							["링크명칭", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"]
 						]
 					},
-				},
-				{
-					name: "Calc",
-					description: {
-						text: "Learn how to use the CSS calc function.",
-						links: [
-							["MDN - Calc", "https://developer.mozilla.org/en-US/docs/Web/CSS/calc"],
-							["CSS Tricks - A Couple of Use Cases for Calc()", "https://css-tricks.com/a-couple-of-use-cases-for-calc/"],
-						]
-					},
+					/* block */
+					skills: [
+						{
+							name: "오토마타이론",
+							description: {
+								text:"오토마타이론은 ~ ",
+								links: [
+									["링크명칭","#"]
+								]
+							},
+
+							/* block */
+							skills:[
+								{
+									name : "논리회로및설계",
+									description:{
+										text:"논리회로및설계는 ~",
+										links:[
+											["링크명칭","#"]
+										]
+									},
+									/* block */
+									skills:[
+										{
+											name : "선형대수학",
+											description:{
+												text:"선형대수학은 ~",
+												links:[
+													["링크 명칭","#"]
+												]
+											},
+											/* block */
+											skills:[
+												{
+													name : "오픈소스개발프로젝트",
+													description:{
+														text:"오픈소스개발프로젝트은 ~",
+														links:[
+															["링크 명칭","#"]
+														]
+													},
+													/* block */
+													skills:[
+														{
+															name : "데이터구조",
+															description:{
+																text:"데이터구조는 ~",
+																links:[
+																	["링크 명칭","#"]
+																]
+															},
+															/* block */
+															skills:[
+																{
+																	name : "컴퓨터네트워크",
+																	description:{
+																		text:"컴퓨터네트워크는 ~",
+																		links:[
+																			["링크 명칭","#"]
+																		]
+																	}
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+
+						}
+					]
 				}
 			]
 		},
