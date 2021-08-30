@@ -5,64 +5,98 @@ export const fundamentalsCollection = {
 			name: "freshman",
 			skills: [
 				{
-					name: "Syntax",
+					/* block */
+					name: "1학기",
 					description: {
-						text: "Learn the basics of HTML and get comfortable with it's syntax and main concepts.",
+						text: "채워주세요",
 						links: [
-							["MDN - HTML Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"],
-							["MDN - Introduction to HTML", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML"],
-							["Codecademy - Learn HTML", "https://www.codecademy.com/learn/learn-html"],
+							["링크명칭", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"]
 						]
 					},
+					/* block */
 					skills: [
 						{
-							name: "Basic Tags",
+							name: "대학글쓰기",
 							description: {
-								text: "Get familiar with the basic HTML tags",
+								text:"대학글쓰기는 ~ ",
 								links: [
-									["MDN - HTML elements reference", "https://developer.mozilla.org/en-US/docs/Web/HTML/Element"],
-									["Tutorialspoint - Basic HTML tags", "https://www.tutorialspoint.com/html/html_basic_tags.htm"],
-									["Elated - First 10 HTML tags", "https://www.elated.com/first-10-html-tags/"],
-									["W3Schools - HTML tags", "https://www.w3schools.com/tags/ref_byfunc.asp"]
+									["링크명칭","#"]
 								]
 							},
-						},
-					]
-				},
-				{
-					name: "Forms",
-					description: {
-						text: "Learn how to design efficient forms, validating them effectively and keeping the user informed along the way.",
-						links: [
-							["MDN - HTML forms", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms"],
-							["Google Web - Forms", "https://developers.google.com/web/fundamentals/design-and-ux/input/forms/"],
-							["W3Schools - Forms", "https://www.w3schools.com/html/html_forms.asp"],
-						]
-					}
-				},
-				{
-					name: "SEO",
-					description: {
-						text: "Learn how to make your content search-friendly.",
-						links: [
-							["web.dev - Discoverable", "https://web.dev/discoverable"],
-							["Google Search - Get Started", "https://developers.google.com/search/docs/guides/get-started"],
-							["Google Search - SEO basics", "https://developers.google.com/search/docs/guides/javascript-seo-basics"],
-							["web.dev - SEO audits", "https://web.dev/lighthouse-seo"]
-						]
-					},
-					skills: [
-						{
-							name: "Discoverable Content",
-							description: {
-								text: "Learn how to structure your HTML in a way that provides a rich experience when sharing it online.",
-								links: [
-									["Google Web - Social Discovery", "https://developers.google.com/web/fundamentals/discovery/social-discovery"],
-									["Google Search - Search Features", "https://developers.google.com/search/docs/guides/search-features"],
-									["Google Search - Structured Data", "https://developers.google.com/search/docs/guides/intro-structured-data"],
-									["web.dev - Easily discoverable", "https://web.dev/discoverable"]
-								]
-							}
+
+							/* block */
+							skills:[
+								{
+									name : "Action English",
+									description:{
+										text:"Action English는 ~",
+										links:[
+											["링크명칭","#"]
+										]
+									},
+									/* block */
+									skills:[
+										{
+											name : "기초컴퓨터프로그래밍",
+											description:{
+												text:"기초컴퓨터프로그래밍은 ~",
+												links:[
+													["링크 명칭","#"]
+												]
+											},
+											/* block */
+											skills:[
+												{
+													name : "수학 I",
+													description:{
+														text:"수학 I은 ~",
+														links:[
+															["링크 명칭","#"]
+														]
+													},
+													/* block */
+													skills:[
+														{
+															name : "빅데이터의이해와활용",
+															description:{
+																text:"빅데이터의 이해와 활용은 ~",
+																links:[
+																	["링크 명칭","#"]
+																]
+															},
+															/* block */
+															skills:[
+																{
+																	name : "창의공학설계",
+																	description:{
+																		text:"착의공학설계는 ~",
+																		links:[
+																			["링크 명칭","#"]
+																		]
+																	},
+																	/* block */
+																	skills:[
+																		{
+																			name : "미래설계탐색",
+																			description:{
+																				text:"미래설계탐색은 ~",
+																				links:[
+																					["링크 명칭","#"]
+																				]
+																			},
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+
 						}
 					]
 				}
