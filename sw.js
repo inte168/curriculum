@@ -33,7 +33,7 @@ const URLS_TO_CACHE = [
 	"src/data/databases.js",
 	"src/data/design-and-ux.js",
 	"src/data/frameworks-and-libraries.js",
-	"src/data/fundamentals.js",
+	"src/data/lectures.js",
 	"src/data/modern.js",
 	"src/data/pwa.js",
 	"src/data/team-collaboration.js",
