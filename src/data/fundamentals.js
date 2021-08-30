@@ -5,7 +5,7 @@ export const fundamentalsCollection = {
 			name: "freshman",
 			skills: [
 				{
-					/* block */
+					/* block-left */
 					name: "1학기",
 					description: {
 						text: "채워주세요",
@@ -80,6 +80,103 @@ export const fundamentalsCollection = {
 																			name : "미래설계탐색",
 																			description:{
 																				text:"미래설계탐색은 ~",
+																				links:[
+																					["링크 명칭","#"]
+																				]
+																			},
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+
+						}
+					]
+				},
+				/* block-right */
+				{
+					/* block */
+					name: "2학기",
+					description: {
+						text: "채워주세요",
+						links: [
+							["링크명칭", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"]
+						]
+					},
+					/* block */
+					skills: [
+						{
+							name: "역사와비판적사고",
+							description: {
+								text:"역사와 비판적사고는 ~ ",
+								links: [
+									["링크명칭","#"]
+								]
+							},
+
+							/* block */
+							skills:[
+								{
+									name : "응용컴퓨터프로그래밍",
+									description:{
+										text:"응용컴퓨터프로그래밍은 ~",
+										links:[
+											["링크명칭","#"]
+										]
+									},
+									/* block */
+									skills:[
+										{
+											name : "공업법규와창업",
+											description:{
+												text:"공업법규와창업은 ~",
+												links:[
+													["링크 명칭","#"]
+												]
+											},
+											/* block */
+											skills:[
+												{
+													name : "확대교양영역 택1",
+													description:{
+														text:"확대교양영역 택1은 ~",
+														links:[
+															["링크 명칭","#"]
+														]
+													},
+													/* block */
+													skills:[
+														{
+															name : "기초통계학",
+															description:{
+																text:"기초통계학은 ~",
+																links:[
+																	["링크 명칭","#"]
+																]
+															},
+															/* block */
+															skills:[
+																{
+																	name : "오픈소스SW이해및실습",
+																	description:{
+																		text:"오픈소스SW이해및실습은 ~",
+																		links:[
+																			["링크 명칭","#"]
+																		]
+																	},
+																	/* block */
+																	skills:[
+																		{
+																			name : "미래설계준비",
+																			description:{
+																				text:"미래설계준비는 ~",
 																				links:[
 																					["링크 명칭","#"]
 																				]
