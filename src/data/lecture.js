@@ -216,7 +216,7 @@ export const fundamentalsCollection = {
 						{
 							name: "C,C++프로그래밍",
 							description: {
-								text:"C&C++프로그래밍은 ~ ",
+								text:"C와 C++ 언어의 구문, 프로그램 설계 기법, 알고리즘 개발 기법을 이용하여 고급 프로그램을 개발하는 능력을 배양한다.",
 								links: [
 									["링크명칭","#"]
 								]
@@ -227,7 +227,7 @@ export const fundamentalsCollection = {
 								{
 									name : "전자회로및설계",
 									description:{
-										text:"전자회로및설계는 ~",
+										text:"전기회로 소자의 특성과 단자특성을 소개, Op Amp 의 선형구간을 이용한 선형 전기회로 해석, 구성된 회로를 해석하기 위한 법칙을 적용, 등가회로 개념을 도입하고 최대 전력이 전달되는 전기전자회로에 대하여 학습한다.",
 										links:[
 											["링크명칭","#"]
 										]
@@ -237,7 +237,7 @@ export const fundamentalsCollection = {
 										{
 											name : "데이터통신",
 											description:{
-												text:"데이터통신은 ~",
+												text:"인터넷 활용, 통신 모델, 전송 매체의 유형과 특성, 네트워크 장비, 전송 방식, 전송 기술, 오류 제어, 부호화, 정보 압축, 보안 등의 개념에 대하여 학습한다.",
 												links:[
 													["링크 명칭","#"]
 												]
@@ -247,7 +247,7 @@ export const fundamentalsCollection = {
 												{
 													name : "오픈소스기초프로젝트",
 													description:{
-														text:"오픈소스기초프로젝트는 ~",
+														text:"C 언어를 활용하여 실용 소프트웨어를 개발하고, 프로젝트를 통해 오픈소스 저장소에 기여하는 방법을 실습한다.",
 														links:[
 															["링크 명칭","#"]
 														]
@@ -257,7 +257,7 @@ export const fundamentalsCollection = {
 														{
 															name : "이산수학",
 															description:{
-																text:"이산수학은 ~",
+																text:"컴퓨터공학 분야의 수학적 기초가 되는 논리, 관계, 함수, 트리, 그래프 이론, 부울대수, 알고리즘 등을 학습한다.",
 																links:[
 																	["링크 명칭","#"]
 																]
@@ -267,7 +267,7 @@ export const fundamentalsCollection = {
 																{
 																	name : "미래설계구현",
 																	description:{
-																		text:"미래설계구현은 ~",
+																		text:"대학생활 전주기적인 관점에서 진로 및 취업 설계를 고학년을 대비 체계적으로 수립할 수 있는 능력을 배양한다.",
 																		links:[
 																			["링크 명칭","#"]
 																		]
