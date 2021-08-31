@@ -390,7 +390,7 @@ export const fundamentalsCollection = {
 						{
 							name: "응용수학",
 							description: {
-								text:"응용수학은 ~ ",
+								text:"기초적인 수리적 개념을 바탕으로 컴퓨터공학 분야의 응용문제를 해결하기 위한 내용을 학습한다.",
 								links: [
 									["링크명칭","#"]
 								]
@@ -401,7 +401,7 @@ export const fundamentalsCollection = {
 								{
 									name : "알고리즘",
 									description:{
-										text:"알고리즘은 ~",
+										text:"기초 개념을 기반으로 문제 해결에 사용하는 알고리즘을 자료구조와 연계하여 학습하고, 알고리즘의 성능 분석 및 설계와 관련한 공학적 문제들을 학습한다.",
 										links:[
 											["링크명칭","#"]
 										]
@@ -411,7 +411,7 @@ export const fundamentalsCollection = {
 										{
 											name : "오픈소스전문프로젝트",
 											description:{
-												text:"오픈소스전문프로젝트는 ~",
+												text:"오픈소스 라이브러리와 도구를 활용하여 웹과 앱 상의 어플리케이션을 구현하고, SW 개발의 분석 및 설계 과정을 이해한다.",
 												links:[
 													["링크 명칭","#"]
 												]
@@ -421,7 +421,7 @@ export const fundamentalsCollection = {
 												{
 													name : "컴퓨터구조",
 													description:{
-														text:"컴퓨터구조는 ~",
+														text:"디지털 컴퓨터의 주요 구성 요소들의 기능과 상호작용을 이해하고 컴퓨터 시스템 구현에 사용되는 설계 기법들을 학습한다. 컴퓨터 발전의 역사적 고찰 및 컴퓨터 시스템의 성능 분석에 필요한 지식 등을 배운다.",
 														links:[
 															["링크 명칭","#"]
 														]
@@ -431,7 +431,7 @@ export const fundamentalsCollection = {
 														{
 															name : "운영체제",
 															description:{
-																text:"운영체제는 ~",
+																text:"운영체제의 역할과 설계 및 구축 방법을 학습한다. 프로세스와 쓰레드, 스케쥴링 개념을 배우고 다중 프로그래밍, 시분할 시스템, 비동기 병행 프로세서를 이해한다. 운영체제의 메모리, 저장장치 관리 및 정보 보호 기법을 학습한다.",
 																links:[
 																	["링크 명칭","#"]
 																]
@@ -441,7 +441,7 @@ export const fundamentalsCollection = {
 																{
 																	name : "프로그래밍언어론",
 																	description:{
-																		text:"프로그래밍언어론은 ~",
+																		text:"프로그래밍 언어의 발전과정, 개념, 설계 및 구현 기법을 강의함으로써, 프로그래밍언어 사용 능력을 향상시키고, 새로운 프로그래밍언어 설계 및 구현 능력을 배양한다.",
 																		links:[
 																			["링크 명칭","#"]
 																		]
@@ -450,7 +450,7 @@ export const fundamentalsCollection = {
 																		{
 																			name : "창업기획",
 																			description:{
-																				text:"창업기획은 ~",
+																				text:"대학생활 전주기적인 관점에서 창업에 관한 진로 설계를 졸업 후를 대비 체계적으로 수립할 수 있는 능력을 배양한다.",
 																				links:[
 																					["링크 명칭","#"]
 																				]
