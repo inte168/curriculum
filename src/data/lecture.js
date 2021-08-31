@@ -390,7 +390,7 @@ export const fundamentalsCollection = {
 						{
 							name: "응용수학",
 							description: {
-								text:"응용수학은 ~ ",
+								text:"기초적인 수리적 개념을 바탕으로 컴퓨터공학 분야의 응용문제를 해결하기 위한 내용을 학습한다.",
 								links: [
 									["링크명칭","#"]
 								]
@@ -401,7 +401,7 @@ export const fundamentalsCollection = {
 								{
 									name : "알고리즘",
 									description:{
-										text:"알고리즘은 ~",
+										text:"기초 개념을 기반으로 문제 해결에 사용하는 알고리즘을 자료구조와 연계하여 학습하고, 알고리즘의 성능 분석 및 설계와 관련한 공학적 문제들을 학습한다.",
 										links:[
 											["링크명칭","#"]
 										]
@@ -411,7 +411,7 @@ export const fundamentalsCollection = {
 										{
 											name : "오픈소스전문프로젝트",
 											description:{
-												text:"오픈소스전문프로젝트는 ~",
+												text:"오픈소스 라이브러리와 도구를 활용하여 웹과 앱 상의 어플리케이션을 구현하고, SW 개발의 분석 및 설계 과정을 이해한다.",
 												links:[
 													["링크 명칭","#"]
 												]
@@ -421,7 +421,7 @@ export const fundamentalsCollection = {
 												{
 													name : "컴퓨터구조",
 													description:{
-														text:"컴퓨터구조는 ~",
+														text:"디지털 컴퓨터의 주요 구성 요소들의 기능과 상호작용을 이해하고 컴퓨터 시스템 구현에 사용되는 설계 기법들을 학습한다. 컴퓨터 발전의 역사적 고찰 및 컴퓨터 시스템의 성능 분석에 필요한 지식 등을 배운다.",
 														links:[
 															["링크 명칭","#"]
 														]
@@ -431,7 +431,7 @@ export const fundamentalsCollection = {
 														{
 															name : "운영체제",
 															description:{
-																text:"운영체제는 ~",
+																text:"운영체제의 역할과 설계 및 구축 방법을 학습한다. 프로세스와 쓰레드, 스케쥴링 개념을 배우고 다중 프로그래밍, 시분할 시스템, 비동기 병행 프로세서를 이해한다. 운영체제의 메모리, 저장장치 관리 및 정보 보호 기법을 학습한다.",
 																links:[
 																	["링크 명칭","#"]
 																]
@@ -441,7 +441,7 @@ export const fundamentalsCollection = {
 																{
 																	name : "프로그래밍언어론",
 																	description:{
-																		text:"프로그래밍언어론은 ~",
+																		text:"프로그래밍 언어의 발전과정, 개념, 설계 및 구현 기법을 강의함으로써, 프로그래밍언어 사용 능력을 향상시키고, 새로운 프로그래밍언어 설계 및 구현 능력을 배양한다.",
 																		links:[
 																			["링크 명칭","#"]
 																		]
@@ -450,7 +450,7 @@ export const fundamentalsCollection = {
 																		{
 																			name : "창업기획",
 																			description:{
-																				text:"창업기획은 ~",
+																				text:"대학생활 전주기적인 관점에서 창업에 관한 진로 설계를 졸업 후를 대비 체계적으로 수립할 수 있는 능력을 배양한다.",
 																				links:[
 																					["링크 명칭","#"]
 																				]
@@ -486,7 +486,7 @@ export const fundamentalsCollection = {
 						{
 							name: "마이크로프로세서",
 							description: {
-								text:"마이크로프로세서는 ~ ",
+								text:"마이크로프로세서의 구성과 명령어의 이해를 통해 시스템의 해석과 설계 능력을 학습한다. 내장형 시스템 하드웨어의 이해와 설계 능력을 배양을 목표한다. 후반부에서는 마이크로프로세서 시스템의 구성 요소를 소개하고 시스템이 요구하는 설계 요건을 만족하기 위한 기법을 학습한다.",
 								links: [
 									["링크명칭","#"]
 								]
@@ -497,7 +497,7 @@ export const fundamentalsCollection = {
 								{
 									name : "정보보호",
 									description:{
-										text:"정보보호는 ~",
+										text:"공격의 유형, 보안 서비스, 암호 알고리즘, 전자 서명, 해시 알고리즘, DDoS 공격, 트래픽 공격 탐지, 침입 탐지 및 차단 시스템, 가상 사설망 등 정보 보호에 대하여 학습한다.",
 										links:[
 											["링크명칭","#"]
 										]
@@ -507,7 +507,7 @@ export const fundamentalsCollection = {
 										{
 											name : "소프트웨어공학",
 											description:{
-												text:"소프트웨어공학은 ~",
+												text:"고품질의 소프트웨어 시스템을 비용 효율적으로 명세, 설계, 구축, 테스팅, 배포하기 위해 필요한 소프트웨어 공학 문제들을 다룬다. 소프트웨어 재사용, 아키텍처 설계, 의존성, 보안 등과 같은 소프트웨어공학에서의 기본적 개념에 대해서 학습하게 된다.",
 												links:[
 													["링크 명칭","#"]
 												]
@@ -517,7 +517,7 @@ export const fundamentalsCollection = {
 												{
 													name : "데이터베이스시스템",
 													description:{
-														text:"데이터베이스시스템은 ~",
+														text:"정보를 효율적으로 관리하기 위한 데이터베이스 시스템에 대해 학습한다. 데이터 모델링 기법, 데이터베이스의 구조, 관계 데이터베이스의 표준질의어인 SQL 및 정규화, 동시성 제어, 복구 기법 등의 데이터베이스 설계 비법에 관하여 공부한다.",
 														links:[
 															["링크 명칭","#"]
 														]
@@ -527,7 +527,7 @@ export const fundamentalsCollection = {
 														{
 															name : "인공지능",
 															description:{
-																text:"인공지능은 ~",
+																text:"인공지능의 개념과 활용 분야를 살펴보고 핵심 이론인 탐색, 최적화, 지식표현 방법 및 추론, 지식기반 시스템, 머신러닝과 인공신경망 등의 개념을 학습한다.",
 																links:[
 																	["링크 명칭","#"]
 																]
@@ -537,7 +537,7 @@ export const fundamentalsCollection = {
 																{
 																	name : "산학프로젝트",
 																	description:{
-																		text:"산학프로젝트는 ~",
+																		text:"공학적 탐구방법과 과정을 익히기 위해 주제에 대하여 기술 동향 및 시장 동향, 그리고 기술적 해결 방안 등을 제시하며, 보고서 작성 및 발표를 통해 효과적인 협업 및 커뮤니케이션을 달성함으로써 성공적인 프로젝트 수행 능력을 배양한다.",
 																		links:[
 																			["링크 명칭","#"]
 																		]
@@ -546,7 +546,7 @@ export const fundamentalsCollection = {
 																		{
 																			name : "창업설계",
 																			description:{
-																				text:"창업설계는 ~",
+																				text:"4차 산업 혁명 관련 기술 동향을 파악하고 창업에 관련된 실무 경험을 수행한다. 초청강연과 창업에 관한 활동를 통하여 전공 역량을 강화하고 도전 의식을 함양한다.",
 																				links:[
 																					["링크 명칭","#"]
 																				]
