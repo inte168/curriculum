@@ -586,7 +586,7 @@ export const fundamentalsCollection = {
 						{
 							name: "머신러닝",
 							description: {
-								text:"머신러닝은 ~ ",
+								text:"지도 학습과 비지도 학습, 강화학습의 기본 원리와 관련 알고리즘을 학습한다. 회귀모델과 결정트리, 신경망, 커널 방법, 그래프 모델, PCA의 개념을 실제 데이터 예제를 통해 배운다.",
 								links: [
 									["링크명칭","#"]
 								]
@@ -597,7 +597,7 @@ export const fundamentalsCollection = {
 								{
 									name : "사이버물리시스템",
 									description:{
-										text:"사이버물리시스템은 ~",
+										text:"가상 공간의 온라인 정보와 물리 공간의 오프라인 위치 및 개체 간 상호작용을 방안, 가상 공간 온라인 정보 전시화를 위한 증간 현실 기술, 물리 공간 실내외 측위 및 개체 인식 기술에 대하여 학습한다.",
 										links:[
 											["링크명칭","#"]
 										]
@@ -607,7 +607,7 @@ export const fundamentalsCollection = {
 										{
 											name : "소프트웨어실전영어",
 											description:{
-												text:"소프트웨어실전영어는 ~",
+												text:"컴퓨터공학 분야의 영어 기술문서 독해와 영어 프리젠테이션 기법을 통해 학생들의 글로벌 역량을 강화한다.",
 												links:[
 													["링크 명칭","#"]
 												]
@@ -617,7 +617,7 @@ export const fundamentalsCollection = {
 												{
 													name : "분산컴퓨팅시스템",
 													description:{
-														text:"분산컴퓨팅시스템은 ~",
+														text:"클러스터, 컴퓨터, 모바일 기기 등 분산 시스템은 다양한 응용을 지원하고 있다. 분산 컴퓨팅 시스템과 관련된 오퍼레이팅 시스템 및 엔지니어링에 필요한 개념과 기술들에 대해서 학습한다. 또한 분산 컴퓨팅 알고리즘에 대해 연구한다.",
 														links:[
 															["링크 명칭","#"]
 														]
@@ -627,7 +627,7 @@ export const fundamentalsCollection = {
 														{
 															name : "컴퓨터비전",
 															description:{
-																text:"컴퓨터비전은 ~",
+																text:"컴퓨터가 디지털 영상 또는 비디오로부터 고수준의 이해을 얻어내도록 하는 내용을 다룬다. 디지털 영상의 획득, 처리, 분석 및 이해와 실세계에서 고차원 데이터 추출에 대해 학습한다.",
 																links:[
 																	["링크 명칭","#"]
 																]
@@ -637,7 +637,7 @@ export const fundamentalsCollection = {
 																{
 																	name : "컴퓨터교재연구및지도법",
 																	description:{
-																		text:"컴퓨터교재연구및지도법은 ~",
+																		text:"중학교와 고등학교의 컴퓨터 교육에 사용되는 학습교재를 분석하고, 수업안 작성, 교수 방법 연구 등을 통해 효과적인 학습지도법에 대한 내용을 학습한다.",
 																		links:[
 																			["링크 명칭","#"]
 																		]
@@ -646,7 +646,7 @@ export const fundamentalsCollection = {
 																		{
 																			name : "창업산학초청세미나",
 																			description:{
-																				text:"창업산학초청세미나는 ~",
+																				text:"산업체와 학교의 교류를 통한 기업가정신, IT기술 동향 및 산업체의 경영철학과 경영방법을 습득한다.",
 																				links:[
 																					["링크 명칭","#"]
 																				]
@@ -655,7 +655,7 @@ export const fundamentalsCollection = {
 																				{
 																					name : "캡스톤디자인",
 																					description:{
-																						text:"캡스톤디자인은 ~",
+																						text:"공학적 탐구방법을 익히기 위해 공학설계에 대한 이해, 공학설계 과정과 사용되는 기법의 이해, 문제 기반 학습 방법 등에 대한 이론의 습득과 주제에 대하여 기술 및 시장 동향, 그리고 기술적 해결방안 등을 학습하며, 보고서 작성 및 발표를 통해 프로젝트 수행 능력을 배양한다.",
 																						links:[
 																							["링크 명칭","#"]
 																						]
