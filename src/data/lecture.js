@@ -586,7 +586,7 @@ export const fundamentalsCollection = {
 						{
 							name: "머신러닝",
 							description: {
-								text:"머신러닝은 ~ ",
+								text:"지도 학습과 비지도 학습, 강화학습의 기본 원리와 관련 알고리즘을 학습한다. 회귀모델과 결정트리, 신경망, 커널 방법, 그래프 모델, PCA의 개념을 실제 데이터 예제를 통해 배운다.",
 								links: [
 									["링크명칭","#"]
 								]
@@ -597,7 +597,7 @@ export const fundamentalsCollection = {
 								{
 									name : "사이버물리시스템",
 									description:{
-										text:"사이버물리시스템은 ~",
+										text:"가상 공간의 온라인 정보와 물리 공간의 오프라인 위치 및 개체 간 상호작용을 방안, 가상 공간 온라인 정보 전시화를 위한 증간 현실 기술, 물리 공간 실내외 측위 및 개체 인식 기술에 대하여 학습한다.",
 										links:[
 											["링크명칭","#"]
 										]
@@ -607,7 +607,7 @@ export const fundamentalsCollection = {
 										{
 											name : "소프트웨어실전영어",
 											description:{
-												text:"소프트웨어실전영어는 ~",
+												text:"컴퓨터공학 분야의 영어 기술문서 독해와 영어 프리젠테이션 기법을 통해 학생들의 글로벌 역량을 강화한다.",
 												links:[
 													["링크 명칭","#"]
 												]
@@ -617,7 +617,7 @@ export const fundamentalsCollection = {
 												{
 													name : "분산컴퓨팅시스템",
 													description:{
-														text:"분산컴퓨팅시스템은 ~",
+														text:"클러스터, 컴퓨터, 모바일 기기 등 분산 시스템은 다양한 응용을 지원하고 있다. 분산 컴퓨팅 시스템과 관련된 오퍼레이팅 시스템 및 엔지니어링에 필요한 개념과 기술들에 대해서 학습한다. 또한 분산 컴퓨팅 알고리즘에 대해 연구한다.",
 														links:[
 															["링크 명칭","#"]
 														]
@@ -627,7 +627,7 @@ export const fundamentalsCollection = {
 														{
 															name : "컴퓨터비전",
 															description:{
-																text:"컴퓨터비전은 ~",
+																text:"컴퓨터가 디지털 영상 또는 비디오로부터 고수준의 이해을 얻어내도록 하는 내용을 다룬다. 디지털 영상의 획득, 처리, 분석 및 이해와 실세계에서 고차원 데이터 추출에 대해 학습한다.",
 																links:[
 																	["링크 명칭","#"]
 																]
@@ -637,7 +637,7 @@ export const fundamentalsCollection = {
 																{
 																	name : "컴퓨터교재연구및지도법",
 																	description:{
-																		text:"컴퓨터교재연구및지도법은 ~",
+																		text:"중학교와 고등학교의 컴퓨터 교육에 사용되는 학습교재를 분석하고, 수업안 작성, 교수 방법 연구 등을 통해 효과적인 학습지도법에 대한 내용을 학습한다.",
 																		links:[
 																			["링크 명칭","#"]
 																		]
@@ -646,7 +646,7 @@ export const fundamentalsCollection = {
 																		{
 																			name : "창업산학초청세미나",
 																			description:{
-																				text:"창업산학초청세미나는 ~",
+																				text:"산업체와 학교의 교류를 통한 기업가정신, IT기술 동향 및 산업체의 경영철학과 경영방법을 습득한다.",
 																				links:[
 																					["링크 명칭","#"]
 																				]
@@ -655,7 +655,7 @@ export const fundamentalsCollection = {
 																				{
 																					name : "캡스톤디자인",
 																					description:{
-																						text:"캡스톤디자인은 ~",
+																						text:"공학적 탐구방법을 익히기 위해 공학설계에 대한 이해, 공학설계 과정과 사용되는 기법의 이해, 문제 기반 학습 방법 등에 대한 이론의 습득과 주제에 대하여 기술 및 시장 동향, 그리고 기술적 해결방안 등을 학습하며, 보고서 작성 및 발표를 통해 프로젝트 수행 능력을 배양한다.",
 																						links:[
 																							["링크 명칭","#"]
 																						]
@@ -693,7 +693,7 @@ export const fundamentalsCollection = {
 						{
 							name: "인공신경망",
 							description: {
-								text:"인공신경망은 ~ ",
+								text:"인공 신경망 모델, 활성화 함수, 퍼셉트론, 연상 메모리, 자율 신경망, 경쟁식 신경망, BP 알고리즘 및 학습 인자, 딥 러닝을 위한 심층 신경망에 대하여 학습한다.",
 								links: [
 									["링크명칭","#"]
 								]
@@ -704,7 +704,7 @@ export const fundamentalsCollection = {
 								{
 									name : "자연언어처리",
 									description:{
-										text:"자연언어처리는 ~",
+										text:"자연언어분석과 자연언어처리 응용분야에 대해 학습한다. 형태소분석, 구문분석, 의미분석 등 자연언어분석 단계와 관련 기술에 대해 강의하고, 기계번역, 정보검색, 질의응답 등 응용분야의 발전 과정과 이슈에 대해 강의한다.",
 										links:[
 											["링크명칭","#"]
 										]
@@ -714,7 +714,7 @@ export const fundamentalsCollection = {
 										{
 											name : "데이터마이닝",
 											description:{
-												text:"데이터마이닝은 ~",
+												text:"데이터 속성 및 데이터 전처리 기법을 배우고 분류와 군집의 고급 기법 등 의미있는 패턴을 발견하는데 필요한 데이터마이닝 이론을 학습한다. 시계열, 네트워크 등 데이터마이닝이 적용된 사례를 알아본다.",
 												links:[
 													["링크 명칭","#"]
 												]
@@ -724,7 +724,7 @@ export const fundamentalsCollection = {
 												{
 													name : "컴퓨터논리및논술",
 													description:{
-														text:"컴퓨터논리및논술은 ~",
+														text:"중학교와 고등학교의 교육현장에서 시행되는 컴퓨터 논리와 논술 교육 내용을 검토하고, 논리적 사고에 기반한 논술지도 능력을 학습한다.",
 														links:[
 															["링크 명칭","#"]
 														]
@@ -734,7 +734,7 @@ export const fundamentalsCollection = {
 														{
 															name : "창업산학초청세미나 II",
 															description:{
-																text:"창업산학초청세미나 II는 ~",
+																text:"산업체와 학교의 교류를 통한 기업가정신, 최신 IT기술 동향 및 산업체의 경영철학과 경영방법을 습득한다.",
 																links:[
 																	["링크 명칭","#"]
 																]
@@ -744,7 +744,7 @@ export const fundamentalsCollection = {
 																{
 																	name : "창업파일럿프로젝트",
 																	description:{
-																		text:"창업파일럿프로젝트는 ~",
+																		text:"전공의 교육과정을 통해 습득한 다양한 지식을 바탕으로 컴퓨터공학 분야의 임의의 주제를 선택하여 연구계획서 작성, 실험, 보고서 작성, 발표까지 연구 과제를 수행함으로써 기술 기반 창업을 위한 경험을 습득한다.",
 																		links:[
 																			["링크 명칭","#"]
 																		]
