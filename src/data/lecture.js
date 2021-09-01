@@ -1,8 +1,8 @@
 export const fundamentalsCollection = {
-	name: "lectures at each grade level",
+	name: "전공교육과정",
 	areas: [
 		{
-			name: "freshman",
+			name: "1학년",
 			skills: [
 				{
 					/* block-left */
@@ -18,7 +18,7 @@ export const fundamentalsCollection = {
 						{
 							name: "대학글쓰기",
 							description: {
-								text:"대학글쓰기는 ~ ",
+								text:"글을 읽고 내용을 이해할 수 있는 독해 능력, 논리적인 글을 쓸 수 있는 글쓰기 능력, 자신의 주장을 펼칠 수 있는 발표 능력을 기른다.",
 								links: [
 									["링크명칭","#"]
 								]
@@ -29,7 +29,7 @@ export const fundamentalsCollection = {
 								{
 									name : "Action English",
 									description:{
-										text:"Action English는 ~",
+										text:"영어의 의사소통 능력(회화)을 배양하며 또한 필수적인 발음, 억양, 제스처 등을 함양한다.",
 										links:[
 											["링크명칭","#"]
 										]
@@ -39,7 +39,7 @@ export const fundamentalsCollection = {
 										{
 											name : "기초컴퓨터프로그래밍",
 											description:{
-												text:"기초컴퓨터프로그래밍은 ~",
+												text:"프로그래밍에 대한 기초적 개념 및 C언어의 구조와 구성 요소들에 대하여 이해한다.",
 												links:[
 													["링크 명칭","#"]
 												]
@@ -49,7 +49,7 @@ export const fundamentalsCollection = {
 												{
 													name : "수학 I",
 													description:{
-														text:"수학 I은 ~",
+														text:"실함수에 관계된 기초 미적분이론에서 다변수함수 등의 고급의 미적분이론까지 학습한다.",
 														links:[
 															["링크 명칭","#"]
 														]
@@ -59,7 +59,7 @@ export const fundamentalsCollection = {
 														{
 															name : "빅데이터의이해와활용",
 															description:{
-																text:"빅데이터의 이해와 활용은 ~",
+																text:"학생들을 대상으로 빅데이터에 대한 지식과 활용 사례를 소개함으로써 다가오는 빅데이터 시대를 대비한다",
 																links:[
 																	["링크 명칭","#"]
 																]
@@ -69,7 +69,7 @@ export const fundamentalsCollection = {
 																{
 																	name : "창의공학설계",
 																	description:{
-																		text:"착의공학설계는 ~",
+																		text:"다양한 문제의 해결 과정을 통해서 창의적 능력을 키우며, 문제 해결 능력 향상과 함께 팀활동을 체험한다.",
 																		links:[
 																			["링크 명칭","#"]
 																		]
@@ -79,7 +79,7 @@ export const fundamentalsCollection = {
 																		{
 																			name : "미래설계탐색",
 																			description:{
-																				text:"미래설계탐색은 ~",
+																				text:"여러 검사와 지속적인 상담 및 지도를 통해 자기를 이해하고 가치관을 확립한다.",
 																				links:[
 																					["링크 명칭","#"]
 																				]
@@ -115,7 +115,7 @@ export const fundamentalsCollection = {
 						{
 							name: "역사와비판적사고",
 							description: {
-								text:"역사와 비판적사고는 ~ ",
+								text:"역사 속, 사고의 발전과 변화를 이해하고 현대사회에서 일반화된 사유의 형식과 주제들을 바라봄으로써 비판적 사고를 배양하도록 한다. ",
 								links: [
 									["링크명칭","#"]
 								]
@@ -126,7 +126,7 @@ export const fundamentalsCollection = {
 								{
 									name : "응용컴퓨터프로그래밍",
 									description:{
-										text:"응용컴퓨터프로그래밍은 ~",
+										text:"C언어에 대한 고급 프로그래밍 기법을 학습하는 강좌, 학습한 기초적인 C 언어 기반 응용 프로그램 개발 예제를 통하여 개발 능력을 함양한다.",
 										links:[
 											["링크명칭","#"]
 										]
@@ -136,7 +136,7 @@ export const fundamentalsCollection = {
 										{
 											name : "공업법규와창업",
 											description:{
-												text:"공업법규와창업은 ~",
+												text:"경쟁력 있는 창업 육성과 기술경영을 위해 필요한 법규에 관한 지식을 제공한다.",
 												links:[
 													["링크 명칭","#"]
 												]
@@ -146,7 +146,7 @@ export const fundamentalsCollection = {
 												{
 													name : "확대교양영역 택1",
 													description:{
-														text:"확대교양영역 택1은 ~",
+														text:"확대교양은 융·복합 분야 등 미래 사회가 요구하는 다양한 역량을 함양하는 교과목으로 구성되어있다.",
 														links:[
 															["링크 명칭","#"]
 														]
@@ -156,7 +156,7 @@ export const fundamentalsCollection = {
 														{
 															name : "기초통계학",
 															description:{
-																text:"기초통계학은 ~",
+																text:"통계학의 기초개념을 이해하고, 통계적 사고의 기초를 확립하며, 기초개념 및 원리를 이해하고, 이로부터 통계적 사고를 배양하며, R 통계 패키지를 이용하여 자료 처리능력과 분석법에 대해 다루고 있다.",
 																links:[
 																	["링크 명칭","#"]
 																]
@@ -166,7 +166,7 @@ export const fundamentalsCollection = {
 																{
 																	name : "오픈소스SW이해및실습",
 																	description:{
-																		text:"오픈소스SW이해및실습은 ~",
+																		text:"오픈소스소프트웨어의 종류, 활용방법, 개발환경의 구성, 응용 등에 대해 학습하여 오픈소스소프트웨어에 대한 이해를 높인다.",
 																		links:[
 																			["링크 명칭","#"]
 																		]
@@ -176,7 +176,7 @@ export const fundamentalsCollection = {
 																		{
 																			name : "미래설계준비",
 																			description:{
-																				text:"미래설계준비는 ~",
+																				text:"4차 산업혁명에 관련한 기술을 소개하여 이를 통한 학생들의 리더십 함양과 창의력 및 융합 마인드 함양을 목표로 한다.",
 																				links:[
 																					["링크 명칭","#"]
 																				]
@@ -200,311 +200,566 @@ export const fundamentalsCollection = {
 			]
 		},
 		{
-			name: "sophormore",
+			name: "2학년",
 			skills: [
 				{
-					name: "Syntax",
+					/* block-left */
+					name: "1학기",
 					description: {
-						text: "Learn the basics of CSS and get comfortable with it's syntax and main concepts.",
+						text: "채워주세요",
 						links: [
-							["MDN - CSS Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics"],
-							["W3Schools - CSS Tutorial", "https://www.w3schools.com/css/default.asp"],
-							["Supercharged - CSS Selectors", "https://www.youtube.com/watch?v=IKho_xDKaLw"],
-							["MDN - CSS first steps", "https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps"],
-							["MDN - CSS building blocks", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks"],
-							["MDN - CSS values and units", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units"],
-							["MDN - CSS Syntax", "https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax"],
-						]
-					}
-				},
-				{
-					name: "Selectors",
-					description: {
-						text: "Learn about CSS selectors and how to effeciently target DOM elements.",
-						links: [
-							["MDN - CSS selectors", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors"],
-							["MDN - All selectors", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors"],
-							["CSS Tricks - Child and Sibling Selectors", "https://css-tricks.com/child-and-sibling-selectors/"],
-							["CSS Tricks - All Selectors", "https://css-tricks.com/almanac/selectors/"],
-							["W3Schools - CSS Combinators", "https://www.w3schools.com/css/css_combinators.asp"]
+							["링크명칭", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"]
 						]
 					},
+					/* block */
 					skills: [
 						{
-							name: "Specificity",
+							name: "C,C++프로그래밍",
 							description: {
-								text: "Learn what specificity means and how to use it when writing CSS.",
+								text:"C와 C++ 언어의 구문, 프로그램 설계 기법, 알고리즘 개발 기법을 이용하여 고급 프로그램을 개발하는 능력을 배양한다.",
 								links: [
-									["MDN - Specificity", "https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity"],
-									["MDN - Cascade and inheritance", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance"],
-									["dev.to - CSS Specificity", "https://dev.to/emmawedekind/css-specificity-1kca"],
-									["Specificity Calculator", "https://specificity.keegan.st/"],
-									["W3Schools - CSS Specificity", "https://www.w3schools.com/css/css_specificity.asp"]
+									["링크명칭","#"]
 								]
 							},
-						},
-						{
-							name: "Pseudo Selectors",
-							description: {
-								text: "Learn how to use pseudo selectors.",
-								links: [
-									["MDN - Pseudo-classes", "https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes"],
-									["CSS Tricks - Meet the Pseudo Class Selectors", "https://css-tricks.com/pseudo-class-selectors/"],
-									["When do the :hover, :focus, and :active pseudo-classes apply?", "https://bitsofco.de/when-do-the-hover-focus-and-active-pseudo-classes-apply/"],
-									["W3Schools - CSS Pseudo-elements", "https://www.w3schools.com/css/css_pseudo_elements.asp"],
-									["W3Schools - CSS Pseudo-classes", "https://www.w3schools.com/css/css_pseudo_classes.asp"],
-								]
-							},
-						},
-					]
-				},
-				{
-					name: "Box Model",
-					description: {
-						text: "Learn what the CSS box model means.",
-						links: [
-							["MDN - Introduction to the CSS basic box model", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model"],
-							["MDN - The box model", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model"],
-							["CSS Tricks - Inheriting box-sizing", "https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/"],
-						]
-					},
-					skills: [
-						{
-							name: "Margin Collapsing",
-							description: {
-								text: "Learn about margin collapsing.",
-								links: [
-									["MDN - Mastering margin collapsing", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing"],
-									["Margin Collapse in CSS: What, Why, and How", "https://medium.com/@joseph0crick/margin-collapse-in-css-what-why-and-how-328c10e37ca0"],
-									["CSS Tricks - What You Should Know About Collapsing Margins", "https://css-tricks.com/what-you-should-know-about-collapsing-margins/"],
-									["What's the Deal with Collapsible Margins?", "https://bitsofco.de/collapsible-margins/"],
-									["What’s the Deal with Margin Collapse?", "https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/"],
-								]
-							},
+
+							/* block */
+							skills:[
+								{
+									name : "전자회로및설계",
+									description:{
+										text:"전기회로 소자의 특성과 단자특성을 소개, Op Amp 의 선형구간을 이용한 선형 전기회로 해석, 구성된 회로를 해석하기 위한 법칙을 적용, 등가회로 개념을 도입하고 최대 전력이 전달되는 전기전자회로에 대하여 학습한다.",
+										links:[
+											["링크명칭","#"]
+										]
+									},
+									/* block */
+									skills:[
+										{
+											name : "데이터통신",
+											description:{
+												text:"인터넷 활용, 통신 모델, 전송 매체의 유형과 특성, 네트워크 장비, 전송 방식, 전송 기술, 오류 제어, 부호화, 정보 압축, 보안 등의 개념에 대하여 학습한다.",
+												links:[
+													["링크 명칭","#"]
+												]
+											},
+											/* block */
+											skills:[
+												{
+													name : "오픈소스기초프로젝트",
+													description:{
+														text:"C 언어를 활용하여 실용 소프트웨어를 개발하고, 프로젝트를 통해 오픈소스 저장소에 기여하는 방법을 실습한다.",
+														links:[
+															["링크 명칭","#"]
+														]
+													},
+													/* block */
+													skills:[
+														{
+															name : "이산수학",
+															description:{
+																text:"컴퓨터공학 분야의 수학적 기초가 되는 논리, 관계, 함수, 트리, 그래프 이론, 부울대수, 알고리즘 등을 학습한다.",
+																links:[
+																	["링크 명칭","#"]
+																]
+															},
+															/* block */
+															skills:[
+																{
+																	name : "미래설계구현",
+																	description:{
+																		text:"대학생활 전주기적인 관점에서 진로 및 취업 설계를 고학년을 대비 체계적으로 수립할 수 있는 능력을 배양한다.",
+																		links:[
+																			["링크 명칭","#"]
+																		]
+																	}
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+
 						}
 					]
 				},
-				/*{
-					name: "Overflow",
-					description: {
-						text: "Learn about what happens when there is too much content to be contained comfortably inside a box and how to manage it.",
-						links: [
-							["MDN - Overflowing content", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Overflowing_content"],
-							["W3Schools - CSS Layout: Overflow", "https://www.w3schools.com/css/css_overflow.asp"],
-							["Overflow In CSS", "https://ishadeed.com/article/overflow-css/"]
-						]
-					},
-				},*/
+				/* block-right */
 				{
-					name: "Colors",
+					/* block */
+					name: "2학기",
 					description: {
-						text: "Learn the different ways you can define colors in CSS.",
+						text: "채워주세요",
 						links: [
-							["MDN - Color", "https://developer.mozilla.org/en-US/docs/Web/CSS/color"],
-							["MDN - <color>", "https://developer.mozilla.org/en-US/docs/Web/CSS/color_value"],
-							["W3Schools - CSS Colors", "https://www.w3schools.com/css/css_colors.asp"],
+							["링크명칭", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"]
 						]
 					},
-				},
-				{
-					name: "Calc",
-					description: {
-						text: "Learn how to use the CSS calc function.",
-						links: [
-							["MDN - Calc", "https://developer.mozilla.org/en-US/docs/Web/CSS/calc"],
-							["CSS Tricks - A Couple of Use Cases for Calc()", "https://css-tricks.com/a-couple-of-use-cases-for-calc/"],
-						]
-					},
+					/* block */
+					skills: [
+						{
+							name: "오토마타이론",
+							description: {
+								text:"계산 이론의 이론적 지식인 형식언어, 형식문법, 오토마타 등에 대해 강의하고 관련된 고급 프로그래밍 기법을 습득하여 학생들의 문제 해결 능력을 강화한다. ",
+								links: [
+									["링크명칭","#"]
+								]
+							},
+
+							/* block */
+							skills:[
+								{
+									name : "논리회로및설계",
+									description:{
+										text:"디지털 하드웨어의 동작을 이해하기 위하여 다양한 디지털 회로에 대한 이해와 설계 능력을 배양한다.",
+										links:[
+											["링크명칭","#"]
+										]
+									},
+									/* block */
+									skills:[
+										{
+											name : "선형대수학",
+											description:{
+												text:"컴퓨터공학 분야에 다양하게 응용되는 행렬과 연립방정식, 행렬식, 벡터공간, 선형변화, 고유값 고유벡터 등을 학습한다.",
+												links:[
+													["링크 명칭","#"]
+												]
+											},
+											/* block */
+											skills:[
+												{
+													name : "오픈소스개발프로젝트",
+													description:{
+														text:"오픈 소스 프로그래밍 언어인 자바를 이용하여 실생활에 적용 가능한 소프트웨어를 개발하고, 그 과정에서 프로그램의 역할과 프로그램 코드의 체계적 개발에 대한 중요성을 이해한다.",
+														links:[
+															["링크 명칭","#"]
+														]
+													},
+													/* block */
+													skills:[
+														{
+															name : "데이터구조",
+															description:{
+																text:"컴퓨터에서 처리하는 데이터의 개념과 이를 효율적으로 처리하기 위한 자료 구조에 대해 공부한다. 또한 트리와 그래프를 사용한 자료 정렬과 검색에 대하여 학습한다.",
+																links:[
+																	["링크 명칭","#"]
+																]
+															},
+															/* block */
+															skills:[
+																{
+																	name : "컴퓨터네트워크",
+																	description:{
+																		text:"통신 프로토콜의 기능 모델, OSI 참조 모델, TCP/IP 프로토콜, 소켓 인터페이스, IP 라우팅, 차세대 인터넷, 초고속 통신망 등의 개념에 대하여 학습한다.",
+																		links:[
+																			["링크 명칭","#"]
+																		]
+																	}
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+
+						}
+					]
 				}
 			]
 		},
 		{
-			name: "junior",
+			name: "3학년",
 			skills: [
 				{
-					name: "Syntax",
+					/* block-left */
+					name: "1학기",
 					description: {
-						text: "Learn the basics of Javascript and get comfortable with it's syntax and main concepts.",
+						text: "채워주세요",
 						links: [
-							["MDN - Javascript First Steps", "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps"],
-							["MDN - Javascript Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics"],
-							["MDN - Javascript Building Blocks", "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks"],
-							/* ["You might not need jQuery", "http://youmightnotneedjquery.com/"],*/
+							["링크명칭", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"]
 						]
 					},
+					/* block */
 					skills: [
 						{
-							name: "Spread",
+							name: "응용수학",
 							description: {
-								text: "Learn how the spread syntax can help you when working with arrays.",
+								text:"기초적인 수리적 개념을 바탕으로 컴퓨터공학 분야의 응용문제를 해결하기 위한 내용을 학습한다.",
 								links: [
-									["MDN - Spread syntax", "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax"],
-									["Freecodecamp - An introduction to Spread syntax", "https://www.freecodecamp.org/news/an-introduction-to-spread-syntax-in-javascript-fba39595922c/"],
-									["Object rest and spread properties", "https://v8.dev/features/object-rest-spread"],
+									["링크명칭","#"]
 								]
 							},
-						},
-						{
-							name: "Destructuring",
-							description: {
-								text: "Learn how destructuring can help you when working with objects.",
-								links: [
-									["MDN - Destructuring assignment", "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment"],
-									["MDN - ES6 In Depth: Destructuring", "https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/"],
-									["javascript.info - Destructuring assignment", "https://javascript.info/destructuring-assignment"],
-								]
-							},
+
+							/* block */
+							skills:[
+								{
+									name : "알고리즘",
+									description:{
+										text:"기초 개념을 기반으로 문제 해결에 사용하는 알고리즘을 자료구조와 연계하여 학습하고, 알고리즘의 성능 분석 및 설계와 관련한 공학적 문제들을 학습한다.",
+										links:[
+											["링크명칭","#"]
+										]
+									},
+									/* block */
+									skills:[
+										{
+											name : "오픈소스전문프로젝트",
+											description:{
+												text:"오픈소스 라이브러리와 도구를 활용하여 웹과 앱 상의 어플리케이션을 구현하고, SW 개발의 분석 및 설계 과정을 이해한다.",
+												links:[
+													["링크 명칭","#"]
+												]
+											},
+											/* block */
+											skills:[
+												{
+													name : "컴퓨터구조",
+													description:{
+														text:"디지털 컴퓨터의 주요 구성 요소들의 기능과 상호작용을 이해하고 컴퓨터 시스템 구현에 사용되는 설계 기법들을 학습한다. 컴퓨터 발전의 역사적 고찰 및 컴퓨터 시스템의 성능 분석에 필요한 지식 등을 배운다.",
+														links:[
+															["링크 명칭","#"]
+														]
+													},
+													/* block */
+													skills:[
+														{
+															name : "운영체제",
+															description:{
+																text:"운영체제의 역할과 설계 및 구축 방법을 학습한다. 프로세스와 쓰레드, 스케쥴링 개념을 배우고 다중 프로그래밍, 시분할 시스템, 비동기 병행 프로세서를 이해한다. 운영체제의 메모리, 저장장치 관리 및 정보 보호 기법을 학습한다.",
+																links:[
+																	["링크 명칭","#"]
+																]
+															},
+															/* block */
+															skills:[
+																{
+																	name : "프로그래밍언어론",
+																	description:{
+																		text:"프로그래밍 언어의 발전과정, 개념, 설계 및 구현 기법을 강의함으로써, 프로그래밍언어 사용 능력을 향상시키고, 새로운 프로그래밍언어 설계 및 구현 능력을 배양한다.",
+																		links:[
+																			["링크 명칭","#"]
+																		]
+																	},
+																	skills:[
+																		{
+																			name : "창업기획",
+																			description:{
+																				text:"대학생활 전주기적인 관점에서 창업에 관한 진로 설계를 졸업 후를 대비 체계적으로 수립할 수 있는 능력을 배양한다.",
+																				links:[
+																					["링크 명칭","#"]
+																				]
+																			}
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+
 						}
 					]
 				},
+				/* block-right */
 				{
-					name: "DOM",
+					/* block */
+					name: "2학기",
 					description: {
-						text: "Learn how the HTML is represented as objects that comprise the structure and content of a document.",
+						text: "채워주세요",
 						links: [
-							["MDN - DOM Introduction", "https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction"],
-							["Freecodecamp - What's the DOM", "https://www.freecodecamp.org/news/whats-the-document-object-model-and-why-you-should-know-how-to-use-it-1a2d0bc5429d/"],
-							["Introduction to the DOM", "https://learn.co/lessons/introduction-to-the-dom"],
-							["htmldom.dev", "https://htmldom.dev/"],
+							["링크명칭", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"]
 						]
 					},
+					/* block */
 					skills: [
 						{
-							name: "DOM Manipulation",
+							name: "마이크로프로세서",
 							description: {
-								text: "Learn how to query HTML elements through Javascript and manipulate them.",
+								text:"마이크로프로세서의 구성과 명령어의 이해를 통해 시스템의 해석과 설계 능력을 학습한다. 내장형 시스템 하드웨어의 이해와 설계 능력을 배양을 목표한다. 후반부에서는 마이크로프로세서 시스템의 구성 요소를 소개하고 시스템이 요구하는 설계 요건을 만족하기 위한 기법을 학습한다.",
 								links: [
-									["MDN - Locating DOM elements using selectors", "https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors"],
-									["Supercharged - querySelector", "https://www.youtube.com/watch?v=s0vg_H9hBuU"],
+									["링크명칭","#"]
 								]
-							}
-						},
+							},
+
+							/* block */
+							skills:[
+								{
+									name : "정보보호",
+									description:{
+										text:"공격의 유형, 보안 서비스, 암호 알고리즘, 전자 서명, 해시 알고리즘, DDoS 공격, 트래픽 공격 탐지, 침입 탐지 및 차단 시스템, 가상 사설망 등 정보 보호에 대하여 학습한다.",
+										links:[
+											["링크명칭","#"]
+										]
+									},
+									/* block */
+									skills:[
+										{
+											name : "소프트웨어공학",
+											description:{
+												text:"고품질의 소프트웨어 시스템을 비용 효율적으로 명세, 설계, 구축, 테스팅, 배포하기 위해 필요한 소프트웨어 공학 문제들을 다룬다. 소프트웨어 재사용, 아키텍처 설계, 의존성, 보안 등과 같은 소프트웨어공학에서의 기본적 개념에 대해서 학습하게 된다.",
+												links:[
+													["링크 명칭","#"]
+												]
+											},
+											/* block */
+											skills:[
+												{
+													name : "데이터베이스시스템",
+													description:{
+														text:"정보를 효율적으로 관리하기 위한 데이터베이스 시스템에 대해 학습한다. 데이터 모델링 기법, 데이터베이스의 구조, 관계 데이터베이스의 표준질의어인 SQL 및 정규화, 동시성 제어, 복구 기법 등의 데이터베이스 설계 비법에 관하여 공부한다.",
+														links:[
+															["링크 명칭","#"]
+														]
+													},
+													/* block */
+													skills:[
+														{
+															name : "인공지능",
+															description:{
+																text:"인공지능의 개념과 활용 분야를 살펴보고 핵심 이론인 탐색, 최적화, 지식표현 방법 및 추론, 지식기반 시스템, 머신러닝과 인공신경망 등의 개념을 학습한다.",
+																links:[
+																	["링크 명칭","#"]
+																]
+															},
+															/* block */
+															skills:[
+																{
+																	name : "산학프로젝트",
+																	description:{
+																		text:"공학적 탐구방법과 과정을 익히기 위해 주제에 대하여 기술 동향 및 시장 동향, 그리고 기술적 해결 방안 등을 제시하며, 보고서 작성 및 발표를 통해 효과적인 협업 및 커뮤니케이션을 달성함으로써 성공적인 프로젝트 수행 능력을 배양한다.",
+																		links:[
+																			["링크 명칭","#"]
+																		]
+																	},
+																	skills:[
+																		{
+																			name : "창업설계",
+																			description:{
+																				text:"4차 산업 혁명 관련 기술 동향을 파악하고 창업에 관련된 실무 경험을 수행한다. 초청강연과 창업에 관한 활동를 통하여 전공 역량을 강화하고 도전 의식을 함양한다.",
+																				links:[
+																					["링크 명칭","#"]
+																				]
+																			}
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+
+						}
 					]
-				},
-				{
-					name: "Events",
-					description: {
-						text: "Learn how to dispatch and listen for events.",
-						links: [
-							["MDN - Introduction to events", "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events"],
-							["MDN - Creating and triggering events", "https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Creating_and_triggering_events"],
-							["Event Bubbling and Event Capturing in JavaScript", "https://medium.com/@vsvaibhav2016/event-bubbling-and-event-capturing-in-javascript-6ff38bec30e"],
-							["Freecodecamp - A simplified explanation of event propagation", "https://www.freecodecamp.org/news/a-simplified-explanation-of-event-propagation-in-javascript-f9de7961a06e/"],
-							["JavaScript Events Explained", "https://flaviocopes.com/javascript-events/"],
-							["MDN - addEventListener()", "https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener"],
-							["MDN - removeEventListener(", "https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/removeEventListener"],
-							["Event order", "https://www.quirksmode.org/js/events_order.html"],
-						]
-					}
 				}
 			]
 		},
 		{
-			name: "senior",
+			name: "4학년",
 			skills: [
 				{
-					name: "Standardization",
+					/* block-left */
+					name: "1학기",
 					description: {
-						text: "Learn why web standards are important and how new specifications are standardised.",
+						text: "채워주세요",
 						links: [
-							["Wikipedia - Web Standards", "https://en.wikipedia.org/wiki/Web_standards"],
-							["What Are Web Standards?", "https://www.elcom.com.au/resources/blog/web-standards"],
-							["A Comprehensive Explanation of Web Standards", "https://robertnyman.com/2007/05/21/what-are-web-standards-a-comprehensive-explanation-of-what-is-comprised-in-the-term/"],
+							["링크명칭", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"]
 						]
 					},
+					/* block */
 					skills: [
 						{
-							name: "W3C",
+							name: "머신러닝",
 							description: {
-								text: "Learn what W3C are doing and how they are moving the web forward.",
+								text:"머신러닝은 ~ ",
 								links: [
-									["W3C - About", "https://www.w3.org/standards/about.html"],
-									["W3C - Standards", "https://www.w3.org/standards/"],
-									["W3C - Process", "http://webdiy.org/w3c/"],
-									["Web Standards Guide", "https://www.smashingmagazine.com/2019/01/web-standards-guide/"],
-									["W3C - Groups", "https://www.w3.org/community/groups/"],
-									["The W3C At Twenty-Five", "https://www.smashingmagazine.com/2019/10/happy-birthday-w3c/"],
-								]
-							}
-						},
-						{
-							name: "TC39",
-							description: {
-								text: "Learn what TC39 are doing and how they are moving the web forward.",
-								links: [
-									["The TC39 process for ECMAScript features", "https://2ality.com/2015/11/tc39-process.html"],
-									["Github - TC39", "https://github.com/tc39"],
-									["Ecma International - Programme of work", "https://www.ecma-international.org/memento/tc39.htm"],
-									["Wikipedia - Ecma International", "https://en.wikipedia.org/wiki/Ecma_International"],
+									["링크명칭","#"]
 								]
 							},
-						},
-						{
-							name: "WHATWG",
-							description: {
-								text: "Learn what WHATWG are doing and how they are moving the web forward.",
-								links: [
-									["WHATWG - FAQ", "https://whatwg.org/faq"],
-									["WHATWG - Standards", "https://spec.whatwg.org/"],
-									["MDN - WHATWG", "https://developer.mozilla.org/en-US/docs/Glossary/WHATWG"],
-									["W3C vs. WHATWG HTML5 Specs", "https://dzone.com/articles/w3c-vs-whatwg-html5-specs"],
-									["WHATWG - HTML", "https://html.spec.whatwg.org/"],
-									["Wikipedia - WHATWG", "https://en.wikipedia.org/wiki/WHATWG"],
-								]
-							}
-						},
-						{
-							name: "Specifications",
-							description: {
-								text: "Learn how to read specifications developed by the standards committees.",
-								links: [
-									["How to Read the ECMAScript Specification", "https://timothygu.me/es-howto/"],
-									["How to Read W3C Specs", "https://alistapart.com/article/readspec/"],
-									["Learning CSS by reading specs", "https://www.chenhuijing.com/blog/learning-css-by-reading-specifications/"],
-									["Understanding the CSS Specifications", "https://www.w3.org/Style/CSS/read.en.html"],
-								]
-							},
+
+							/* block */
+							skills:[
+								{
+									name : "사이버물리시스템",
+									description:{
+										text:"사이버물리시스템은 ~",
+										links:[
+											["링크명칭","#"]
+										]
+									},
+									/* block */
+									skills:[
+										{
+											name : "소프트웨어실전영어",
+											description:{
+												text:"소프트웨어실전영어는 ~",
+												links:[
+													["링크 명칭","#"]
+												]
+											},
+											/* block */
+											skills:[
+												{
+													name : "분산컴퓨팅시스템",
+													description:{
+														text:"분산컴퓨팅시스템은 ~",
+														links:[
+															["링크 명칭","#"]
+														]
+													},
+													/* block */
+													skills:[
+														{
+															name : "컴퓨터비전",
+															description:{
+																text:"컴퓨터비전은 ~",
+																links:[
+																	["링크 명칭","#"]
+																]
+															},
+															/* block */
+															skills:[
+																{
+																	name : "컴퓨터교재연구및지도법",
+																	description:{
+																		text:"컴퓨터교재연구및지도법은 ~",
+																		links:[
+																			["링크 명칭","#"]
+																		]
+																	},
+																	skills:[
+																		{
+																			name : "창업산학초청세미나",
+																			description:{
+																				text:"창업산학초청세미나는 ~",
+																				links:[
+																					["링크 명칭","#"]
+																				]
+																			},
+																			skills:[
+																				{
+																					name : "캡스톤디자인",
+																					description:{
+																						text:"캡스톤디자인은 ~",
+																						links:[
+																							["링크 명칭","#"]
+																						]
+																					}
+																				}
+																			]
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+
 						}
 					]
 				},
+				/* block-right */
 				{
-					name: "Browser Engines",
+					/* block */
+					name: "2학기",
 					description: {
-						text: "Learn what a browser engine is and get an overview of the browser landscape and market share.",
+						text: "채워주세요",
 						links: [
-								["Medium - Browser Engines", "https://medium.com/@jonbiro/browser-engines-chromium-v8-blink-gecko-webkit-98d6b0490968"],
-								["Wikipedia - Comparison", "https://en.wikipedia.org/wiki/Comparison_of_browser_engines"],
-								["HTML5 Rocks - How Browsers Work", "https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/"],
-								["Demystifying Browsers", "https://textslashplain.com/2020/02/09/demystifying-browsers/"],
+							["링크명칭", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"]
 						]
 					},
+					/* block */
 					skills: [
 						{
-							name: "Webkit",
+							name: "인공신경망",
 							description: {
-								text: "Learn about the Webkit browser engine.",
+								text:"인공신경망은 ~ ",
 								links: [
-									["Webkit", "https://webkit.org/"]
+									["링크명칭","#"]
 								]
-							}
-						},
-						{
-							name: "Blink",
-							description: {
-								text: "Learn about the Blink browser engine.",
-								links: [
-									["Blink", "https://en.wikipedia.org/wiki/Blink_(browser_engine)"],
-								]
-							}
-						},
-						{
-							name: "Gecko",
-							description: {
-								text: "Learn about the Gecko browser engine.",
-								links: [
-									["Gecko", "https://en.wikipedia.org/wiki/Gecko_(software)"]
-								]
-							}
+							},
+
+							/* block */
+							skills:[
+								{
+									name : "자연언어처리",
+									description:{
+										text:"자연언어처리는 ~",
+										links:[
+											["링크명칭","#"]
+										]
+									},
+									/* block */
+									skills:[
+										{
+											name : "데이터마이닝",
+											description:{
+												text:"데이터마이닝은 ~",
+												links:[
+													["링크 명칭","#"]
+												]
+											},
+											/* block */
+											skills:[
+												{
+													name : "컴퓨터논리및논술",
+													description:{
+														text:"컴퓨터논리및논술은 ~",
+														links:[
+															["링크 명칭","#"]
+														]
+													},
+													/* block */
+													skills:[
+														{
+															name : "창업산학초청세미나 II",
+															description:{
+																text:"창업산학초청세미나 II는 ~",
+																links:[
+																	["링크 명칭","#"]
+																]
+															},
+															/* block */
+															skills:[
+																{
+																	name : "창업파일럿프로젝트",
+																	description:{
+																		text:"창업파일럿프로젝트는 ~",
+																		links:[
+																			["링크 명칭","#"]
+																		]
+																	}
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+
 						}
 					]
 				}
