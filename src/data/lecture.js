@@ -693,7 +693,7 @@ export const fundamentalsCollection = {
 						{
 							name: "인공신경망",
 							description: {
-								text:"인공신경망은 ~ ",
+								text:"인공 신경망 모델, 활성화 함수, 퍼셉트론, 연상 메모리, 자율 신경망, 경쟁식 신경망, BP 알고리즘 및 학습 인자, 딥 러닝을 위한 심층 신경망에 대하여 학습한다.",
 								links: [
 									["링크명칭","#"]
 								]
@@ -704,7 +704,7 @@ export const fundamentalsCollection = {
 								{
 									name : "자연언어처리",
 									description:{
-										text:"자연언어처리는 ~",
+										text:"자연언어분석과 자연언어처리 응용분야에 대해 학습한다. 형태소분석, 구문분석, 의미분석 등 자연언어분석 단계와 관련 기술에 대해 강의하고, 기계번역, 정보검색, 질의응답 등 응용분야의 발전 과정과 이슈에 대해 강의한다.",
 										links:[
 											["링크명칭","#"]
 										]
@@ -714,7 +714,7 @@ export const fundamentalsCollection = {
 										{
 											name : "데이터마이닝",
 											description:{
-												text:"데이터마이닝은 ~",
+												text:"데이터 속성 및 데이터 전처리 기법을 배우고 분류와 군집의 고급 기법 등 의미있는 패턴을 발견하는데 필요한 데이터마이닝 이론을 학습한다. 시계열, 네트워크 등 데이터마이닝이 적용된 사례를 알아본다.",
 												links:[
 													["링크 명칭","#"]
 												]
@@ -724,7 +724,7 @@ export const fundamentalsCollection = {
 												{
 													name : "컴퓨터논리및논술",
 													description:{
-														text:"컴퓨터논리및논술은 ~",
+														text:"중학교와 고등학교의 교육현장에서 시행되는 컴퓨터 논리와 논술 교육 내용을 검토하고, 논리적 사고에 기반한 논술지도 능력을 학습한다.",
 														links:[
 															["링크 명칭","#"]
 														]
@@ -734,7 +734,7 @@ export const fundamentalsCollection = {
 														{
 															name : "창업산학초청세미나 II",
 															description:{
-																text:"창업산학초청세미나 II는 ~",
+																text:"산업체와 학교의 교류를 통한 기업가정신, 최신 IT기술 동향 및 산업체의 경영철학과 경영방법을 습득한다.",
 																links:[
 																	["링크 명칭","#"]
 																]
@@ -744,7 +744,7 @@ export const fundamentalsCollection = {
 																{
 																	name : "창업파일럿프로젝트",
 																	description:{
-																		text:"창업파일럿프로젝트는 ~",
+																		text:"전공의 교육과정을 통해 습득한 다양한 지식을 바탕으로 컴퓨터공학 분야의 임의의 주제를 선택하여 연구계획서 작성, 실험, 보고서 작성, 발표까지 연구 과제를 수행함으로써 기술 기반 창업을 위한 경험을 습득한다.",
 																		links:[
 																			["링크 명칭","#"]
 																		]
