@@ -1,5 +1,5 @@
 export const accessibilityCollection = {
-	name: "liberal arts",
+	name: "교양과정",
 	areas: [
 		{
 			name: "개신기초교양",

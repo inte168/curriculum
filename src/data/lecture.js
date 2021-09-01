@@ -1,8 +1,8 @@
 export const fundamentalsCollection = {
-	name: "lectures at each grade level",
+	name: "전공교육과정",
 	areas: [
 		{
-			name: "freshman",
+			name: "1학년",
 			skills: [
 				{
 					/* block-left */
@@ -200,7 +200,7 @@ export const fundamentalsCollection = {
 			]
 		},
 		{
-			name: "sophormore",
+			name: "2학년",
 			skills: [
 				{
 					/* block-left */
@@ -374,7 +374,7 @@ export const fundamentalsCollection = {
 			]
 		},
 		{
-			name: "junior",
+			name: "3학년",
 			skills: [
 				{
 					/* block-left */
@@ -570,7 +570,7 @@ export const fundamentalsCollection = {
 			]
 		},
 		{
-			name: "senior",
+			name: "4학년",
 			skills: [
 				{
 					/* block-left */
