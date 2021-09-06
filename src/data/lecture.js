@@ -1,4 +1,4 @@
-export const fundamentalsCollection = {
+export const lecture = {
 	name: "전공교육과정",
 	areas: [
 		{

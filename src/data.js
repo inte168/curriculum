@@ -1,5 +1,5 @@
 
-import {fundamentalsCollection} from "./data/lecture.js";
+import {lecture} from "./data/lecture.js";
 import {major} from "./data/major.js";
 import {cultural} from "./data/cultural.js";
 import {pwaCollection} from "./data/pwa.js";
@@ -17,7 +17,7 @@ import {databasesCollection} from "./data/databases.js";
  * All available collections.
  */
 export const collections = [
-	fundamentalsCollection,
+	lecture,
 	cultural,
 	major,
 	pwaCollection,
