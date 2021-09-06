@@ -1,4 +1,4 @@
-export const webcomponentsCollection = {
+export const major = {
 	name: "전공과정",
 	areas: [
 		{
