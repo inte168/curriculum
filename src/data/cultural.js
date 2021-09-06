@@ -1,4 +1,4 @@
-export const accessibilityCollection = {
+export const cultural = {
 	name: "교양과정",
 	areas: [
 		{

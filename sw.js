@@ -26,7 +26,7 @@ const URLS_TO_CACHE = [
 	"src/atoms/icon.js",
 	"src/atoms/compact-switch.js",
 	"src/atoms/snackbar.js",
-	"src/data/accessibility.js",
+	"src/data/cultural.js",
 	"src/data/algorithms.js",
 	"src/data/architecture-and-paradigmes.js",
 	"src/data/build-tools.js",
@@ -38,7 +38,7 @@ const URLS_TO_CACHE = [
 	"src/data/pwa.js",
 	"src/data/team-collaboration.js",
 	"src/data/testing.js",
-	"src/data/web-components.js",
+	"src/data/major.js",
 	"src/styles/shared.js",
 	"src/styles/global.css",
 	"web_modules/web-dialog.js"
