@@ -1,76 +1,68 @@
 export const frameworksAndLibrariesCollection = {
-	name: "Frameworks & Libraries",
-	areas: [
-		{
-			skills: [
-				{
-					name: "lit-element",
-					description: {
-						text: "Learn how to use lit-element for creating fast, lightweight web components.",
-						links: [
-							["lit-element", "https://lit-element.polymer-project.org/"],
-							["Google Devs - Lightning-fast templates", "https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html"],
-							["Vaadin - Creating a LitElement project", "https://vaadin.com/tutorials/lit-element/starting-a-lit-element-project"],
-							["dev.to - Web Components: from zero to hero, part three", "https://dev.to/thepassle/web-components-from-zero-to-hero-part-three-3c5h"],
-						]
-					}
-				},
-				{
-					name: "Vue",
-					description: {
-						text: "Learn about Vue and how you can use it for building web apps.",
-						links: [
-							["Vue", "https://vuejs.org/"],
-							["Vue - CLI", "https://cli.vuejs.org/"],
-							["Getting Started with Vue", "https://www.taniarascia.com/getting-started-with-vue/"],
-						]
-					},
-				},
-				{
-					name: "React",
-					description: {
-						text: "Learn about React and how you can use it for building web apps.",
-						links: [
-							["React", "https://reactjs.org/"],
-							["web.dev - React", "https://web.dev/react"],
-							["Getting Started with React", "https://www.taniarascia.com/getting-started-with-react/"],
-						]
-					},
-				},
-				{
-					name: "Angular",
-					description: {
-						text: "Learn about Angular and how you can use it for building web apps.",
-						links: [
-							["Angular", "https://angular.io/"],
-							["web.dev - Angular", "https://web.dev/angular"],
-							["Angular - CLI", "https://cli.angular.io/"],
-						]
-					},
-				},
-				{
-					name: "Svelte",
-					description: {
-						text: "Learn about Svelte and how it can convert your component into highly efficient imperative code.",
-						links: [
-							["Svelte", "https://svelte.dev/"],
-							["Github - Svelte FAQ", "https://github.com/sveltejs/svelte/wiki/FAQ"],
-							["Svelte - Rethinking reactivity", "https://svelte.dev/blog/svelte-3-rethinking-reactivity"],
-						]
-					},
-				},
-				{
-					name: "Stencil",
-					description: {
-						text: "Learn how Stencil can be used for generating small, fast web components.",
-						links: [
-							["Stencil", "https://stenciljs.com/"],
-							["Alligator - Getting Started With Stencil", "https://alligator.io/stencil/getting-started/"],
-							["How to Build Reusable Web Components Using Stenciljs", "https://codeburst.io/how-to-build-web-components-using-stenciljs-afacc5451c2d"],
-						]
-					},
-				},
-			]
-		}
-	]
+  name: "비교과활동씨앗",
+  areas: [
+    {
+      skills: [
+        {
+          name: "씨앗_마이페이지",
+          description: {
+            text: "자신의 개인정보 및 씨앗 마일리지 현황을 볼 수 있습니다.",
+            links: [
+              ["마이페이지", "https://cieat.cbnu.ac.kr/clientMain/a/t/main.do"],
+            ]
+          }
+        },
+        {
+          name: "비교과-신청",
+          description: {
+            text: "현재 모집 중인 비교과 활동 프로그램을 볼 수 있습니다",
+            links: [
+              ["신청", "https://cieat.cbnu.ac.kr/clientMain/a/t/main.do"],
+
+            ]
+          },
+        },
+        {
+          name: "비교과-내역",
+          description: {
+            text: "활동 중 또는 이수한 프로그램 목록들을 볼 수 있으며 만족도 조사를 하는 곳입니다.",
+            links: [
+              ["내역", "https://cieat.cbnu.ac.kr/clientMain/a/t/main.do"],
+
+            ]
+          },
+        },
+        {
+          name: "독서인증제",
+          description: {
+            text: "독후감을 올리는 곳입니다.",
+            links: [
+              ["독서인증제", "https://cieat.cbnu.ac.kr/clientMain/a/t/main.do"],
+
+            ]
+          },
+        },
+        {
+          name: "봉사인증제",
+          description: {
+            text: "봉사 이력을 올리는 곳입니다.",
+            links: [
+              ["봉사인증제", "https://cieat.cbnu.ac.kr/clientMain/a/t/main.do"],
+
+            ]
+          },
+        },
+        {
+          name: "지도교수상담",
+          description: {
+            text: "지도교수 상담을 요청하는 곳입니다.",
+            links: [
+              ["상담요청", "https://cieat.cbnu.ac.kr/clientMain/a/t/main.do"],
+
+            ]
+          },
+        },
+      ]
+    }
+  ]
 }
